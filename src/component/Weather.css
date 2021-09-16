@@ -1,0 +1,14 @@
+.weatherDetails {
+    flex-direction: column;
+    margin: 1vh;
+    justify-items: center;
+    text-align: center;
+    font-weight: normal;
+}
+
+.CurrWeatherHeader {
+    font-weight: normal;
+    justify-self: flex-start;
+    justify-content: flex-start;
+    margin-right: 3vh;
+}
